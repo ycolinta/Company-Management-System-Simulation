@@ -1,18 +1,16 @@
 /*
  * Yessica Colin
- * CS2300 Adv. Programming
- * 2/19/2024
+ * CMSS_Project
+ * 2/19/2024 
  */
 
 #include <iostream>
 #include "FullTime.h"
 
-
 using namespace std;
 
 FullTime::FullTime() : Employee() {
 }
-
 
 void FullTime::addTraining(Training newTraining) {
     trainingObjs.push_back(newTraining);
