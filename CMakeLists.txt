@@ -1,11 +1,11 @@
 cmake_minimum_required(VERSION 3.27)
-project(M2OEP_ycolinta)
+project(CMSS_Project)
 
 set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(M2OEP_ycolinta
+add_executable(CMSS_Project
         Employee.cpp
         Employee.h
         main.cpp
