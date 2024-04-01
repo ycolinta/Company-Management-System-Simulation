@@ -1,7 +1,7 @@
 /*
  * Yessica Colin
- * CS2300 Adv. Programming
- * 2/19/2024
+ * CMSS_Project
+ * 2/19/2024 
  */
 
 #ifndef PARTTIME_H
