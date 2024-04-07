@@ -4,7 +4,7 @@
 Rewrite the README.md file. This is for employers, so make sure you include a summary of the program, language(s) used, which parts of the code were not authored by you, any citations, any installations necessary, etc. If the project included starter code from me, make sure you credit me in your README.md file. Feel free to flex your markdown knowledge with headings, bullet points, lists, tables, etc. You may want to show the README.md file to someone unfamiliar with programming and ask them if it's organized and intuitive to read.
 Add a link to this project to your résumé. Make sure it's the full URL and not just a hyperlink (you may be printing this so the employer may not be able to click on it). If you have space, add a short description of the project as well. Use action verbs, bullet points, etc.
 
-1. [Summary](#summary)
+1. [Summary of the Program](#summary-of-the-program)
 1. [Design](#design)
 1. [Installation](#installation)
 1. [Configuration](#configuration)
@@ -12,7 +12,7 @@ Add a link to this project to your résumé. Make sure it's the full URL and not
 1. [Building](#building)
 1. [Configuration Reference](#configuration-reference)
 
-## Summary
+## Summary of the Program
 
 This project presents a simulation of a company management system that manages the essential organizational maintenance tasks within a company. The system is ideally used by company admins, such as human resources administrative professionals, to perform different employee-related actions. The program offers different options to the administrative admin through a menu, with each option possessing different functionality, such as adding new employees to the system, obtaining employee payroll, and calculating the company's taxes. 
 
